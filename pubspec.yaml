@@ -1,0 +1,25 @@
+name: caretv_ai
+description: CareTV AI - an AI-powered family, elder, livestock and first-aid care assistant for Fire TV / Android TV, powered by AWS Bedrock.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  qr_flutter: ^4.1.0
+  http: ^1.2.0
+  flutter_tts: ^4.0.2
+  provider: ^6.1.2
+  google_fonts: ^6.2.1
+  flutter_spinkit: ^5.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true

@@ -222,7 +222,7 @@ Setting `CARETV_BEDROCK_API_KEY` makes the app call `https://bedrock-runtime.<re
 
 ## Amazon Developer Hackathon 2026 - submission details
 
-- **Tracks:** Fire TV Track, AWS Builder, Open Source Challenge. Please verify the final category names and requirements against the official hackathon rules before submitting.
+- **Tracks:** Fire TV Track, AWS Builder, Open Source Challenge. 
 - **Problem:** Many households, especially multi-generational homes and small farms, do not have quick access to clear first-response guidance. The TV is already the shared screen in the room, readable from a distance and hands-free with voice.
 - **Solution:** A 10-foot, remote-friendly assistant that gives structured, spoken guidance for household illness, elder care, livestock health and emergency first aid, then hands off to a phone via QR to order supplies.
 - **AWS services:** Amazon Bedrock (Claude 3 Haiku / Titan), AWS Lambda, Amazon API Gateway, AWS IAM.
